@@ -2,7 +2,7 @@
 
 Welcome. This is a revision resource for AQA's A-level Philosophy course, with notes covering each section of the subject. Eventually, we hope to offer comprehensive coverage of the whole A-level specification. In the meantime, you can contribute by improving pages [here](https://github.com/a2docs/aqa-philosophy).
 
-> Given this is a public resource that anyone can edit, please note there is no guarantee of validity. You are encouraged to cross-check information with other sources, such as OCR-endorsed or reputable textbooks, and to correct any false information if you can.
+> Given this is a public resource that anyone can edit, please note there is no guarantee of validity. You are encouraged to cross-check information with other sources, such as AQA-endorsed or reputable textbooks, and to correct any false information if you can.
 
 ## Specification at a glance
 This qualification is linear. Linear means that students will sit all their exams at the end of the course.
