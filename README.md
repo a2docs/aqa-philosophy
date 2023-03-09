@@ -1,4 +1,4 @@
-# A-level Chemistry
+# A-level Philosophy
 
 Welcome. This is a revision resource for AQA's A-level Philosophy course, with notes covering each section of the subject. Eventually, we hope to offer comprehensive coverage of the whole A-level specification. In the meantime, you can contribute by improving pages [here](https://github.com/a2docs/aqa-philosophy).
 
