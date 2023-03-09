@@ -1,3 +1,6 @@
+# Indirect realism
+*Epistemology*
+
 Indirect realism is a theory of perception. It is the view that the immediate objects of perception are mind-dependent objects (sense-data) that are caused by and represent mind-independent objects. Sense-data represent physical objects in the external world. In application, we know what the external world is like by inference from sense-data - it is evidence for what exists.
 
 * There is both a physical world and an external world.
