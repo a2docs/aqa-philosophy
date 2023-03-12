@@ -24,7 +24,7 @@ If God is eternal, then He is atemporal and exists outside of time. Whereas, if 
 ### Eternal and atemporal
 
 1. Everything in time changes.
-2. But, God is immutable.
+2. But God is immutable.
 3. Therefore, God cannot be in time.
 4. Therefore, God exists outside of time.
 
@@ -56,7 +56,7 @@ In response, it could be argued that the paradox fails to show God's power is li
 
 As humans, we generally believe that we have the capacity to choose our own course of action unimpeded. That is to say, we have free will. However, if God is omniscient (specifically, all-knowing) then His knowledge includes everything. And if He knows *everything*, then it would follow that He already knows what will happen in the future. Therefore, He knows what we will do in the future and what our course of action will be.
 
-But, if God knows this, it would appear as though our actions are pre-determined. So, it would seem that, to be able to believe in the existence of an omniscient being (such as God), one must resign one's concept of their own free will. Conversely, for one to believe they have free will, one cannot believe in the exitence of an omniscient being.
+But, if God knows this, it would appear as though our actions are pre-determined. So, it would seem that, to be able to believe in the existence of an omniscient being (such as God), one must resign one's concept of their own free will. Conversely, for one to believe they have free will, one cannot believe in the existence of an omniscient being.
 
 In response, theists could argue that if God was eternal then His knowledge of what we will do is not before we do it. Instead, it will all be at the same time for an atemporal being. Therefore, we could remain free to choose our own course of action unimpeded. Simultaneously, nothing we ever do will be outside God's knowledge - He is aware of all events and temporal phenomena simultaneously. However, this response is predicated on the belief that God is atemporal.
 
